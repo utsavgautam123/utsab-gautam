@@ -53,6 +53,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@gmail.com)<h1 align="center">Hey there 👋, I'm Utsav</h1>
 
 <p align="center">
-  <img src="photo.jpg" width="200" style="border-radius: 50%;" />
-</p>
+     <img src="https://raw.githubusercontent.com/utsavgautam123/utsavgautam123/main/photo.jpg" width="200" />
+   </p>
 
