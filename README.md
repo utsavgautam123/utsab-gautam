@@ -56,10 +56,3 @@
   <img src="photo.jpg" width="200" style="border-radius: 50%;" />
 </p>
 
-<h3 align="center">A passionate Programmer | Data Science Enthusiast</h3>
-
-## 🙋 About Me:
-- 🌱 I'm currently learning **Data Science & ML**
-- 🎓 BSc.CSIT Student
-- 📍 Living in Butwal, Nepal
-- 💡 Passionate about **Python & Data Analysis**
